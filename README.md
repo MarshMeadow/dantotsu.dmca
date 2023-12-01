@@ -5,7 +5,11 @@ Used on: https://dantotsu.app
 
 Hosted Here: https://rentry.co/dantotsu
 
-Local Github Code Host: https://marshmeadow.github.io/dantotsu.dmca/disclaimer.html
+Hosted Here: https://pastebin.com/raw/M0nTU8Bg
+
+Local GitHub Code Host: https://marshmeadow.github.io/dantotsu.dmca/disclaimer.html
+
+Local Github Code Host: https://marshmeadow.github.io/dantotsu.dmca/M0nTU8Bg.html
 
 This is for now, a new one will be written soon..
 
